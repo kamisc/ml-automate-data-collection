@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<transactions>
+	<transaction>
+		<transaction_id>CBCEFA91-8346-144A-47E9-80B945F073F5</transaction_id>
+		<timestamp>18/08/2020 04:58:47</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3012</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>F558B825-4728-911C-DB73-DB031A6E3F91</transaction_id>
+		<timestamp>14/08/2020 04:03:19</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>15%</discount>
+		<userid>3064</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>25EF49C1-E656-FDE5-088E-D959B3F65916</transaction_id>
+		<timestamp>18/08/2020 08:54:44</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3091</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>89A99228-D91F-0ABC-4864-514C0AC2CBA1</transaction_id>
+		<timestamp>23/08/2020 01:27:47</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>25%</discount>
+		<userid>3042</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>29C0E96C-13C2-64F4-BB4A-E6614ADFAF75</transaction_id>
+		<timestamp>23/08/2020 06:11:22</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount>25%</discount>
+		<userid>3086</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>C2DEFBE4-5FFF-64A5-37AC-291BC3D51E9B</transaction_id>
+		<timestamp>31/08/2020 12:16:37</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3011</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>B0C9B202-5639-5831-04CC-5D4EFB8440F7</transaction_id>
+		<timestamp>22/08/2020 03:34:00</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer>h&amp;l</offer>
+		<discount>30%</discount>
+		<userid>3098</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>B36F72C1-7380-3982-8020-6AE5AD4058F9</transaction_id>
+		<timestamp>01/08/2020 05:25:23</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>15%</discount>
+		<userid>3019</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>A9D07A6F-5517-0F35-950C-514CD4FAA837</transaction_id>
+		<timestamp>26/08/2020 07:18:06</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer>sg</offer>
+		<discount></discount>
+		<userid>3069</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>12EC5548-A550-D6E2-4458-126E950F5706</transaction_id>
+		<timestamp>17/08/2020 03:39:27</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>30%</discount>
+		<userid>3021</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>FFEC693C-0E36-1BF3-A181-881F5613CB14</transaction_id>
+		<timestamp>27/08/2020 12:54:33</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount>20%</discount>
+		<userid>3051</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>11A09D9B-1D66-5BC6-C587-A7310DC36C7F</transaction_id>
+		<timestamp>14/08/2020 02:38:45</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer>sg</offer>
+		<discount></discount>
+		<userid>3039</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>8ABDDC9A-080F-1309-B831-01F25D7E3D1D</transaction_id>
+		<timestamp>30/08/2020 06:47:59</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>25%</discount>
+		<userid>3027</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>A324784A-D8B5-1CED-1D1C-C4EB40F18574</transaction_id>
+		<timestamp>31/08/2020 02:42:21</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>15%</discount>
+		<userid>3008</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>FE5382B5-A32A-4BF4-726A-2931A66778CA</transaction_id>
+		<timestamp>15/08/2020 01:35:37</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer>h&amp;l</offer>
+		<discount></discount>
+		<userid>3058</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>05C24EDA-1F57-3317-4416-5CA1EFCCAA6C</transaction_id>
+		<timestamp>19/08/2020 07:34:34</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer>sg</offer>
+		<discount></discount>
+		<userid>3039</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>B2738E73-D35B-5DC6-B228-5E4189177878</transaction_id>
+		<timestamp>23/08/2020 10:36:03</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer>h&amp;l</offer>
+		<discount></discount>
+		<userid>3016</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>18F58B62-DDFB-AEEE-0995-1CC81E5815C6</transaction_id>
+		<timestamp>26/08/2020 10:05:50</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3040</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>C76E5F11-BF2D-DD53-5E50-74734535517A</transaction_id>
+		<timestamp>26/08/2020 08:17:22</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3032</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>1BF047DA-D249-654A-D878-A328FF512B5A</transaction_id>
+		<timestamp>05/08/2020 04:37:53</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount>25%</discount>
+		<userid>3009</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>90957A21-A911-5A9F-7B40-7246D2E0DDF8</transaction_id>
+		<timestamp>09/08/2020 07:32:26</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>15%</discount>
+		<userid>3078</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>9A389350-B88E-23B1-C92D-A923D45D9809</transaction_id>
+		<timestamp>22/08/2020 01:14:55</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer>ga</offer>
+		<discount>30%</discount>
+		<userid>3041</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>80F82DDB-34CE-5340-5BA8-0DF12B6DB17C</transaction_id>
+		<timestamp>30/08/2020 06:22:28</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3074</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>C0913484-120C-52E7-9A8A-3714CF5752A1</transaction_id>
+		<timestamp>19/08/2020 02:23:10</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3071</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>50B0A061-4D94-D66A-9474-7159989703DB</transaction_id>
+		<timestamp>05/08/2020 11:22:41</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3099</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>B02BEB30-DD6A-DEC5-11A6-8242E056BF0B</transaction_id>
+		<timestamp>03/08/2020 04:29:32</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3022</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>EB87D081-20E9-083D-1377-EDDB9E130AA4</transaction_id>
+		<timestamp>22/08/2020 10:57:38</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer>gft</offer>
+		<discount></discount>
+		<userid>3049</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>E6CFAE4E-DF55-106D-CDC5-DE143A4DCC9D</transaction_id>
+		<timestamp>13/08/2020 09:54:05</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer>h&amp;l</offer>
+		<discount>25%</discount>
+		<userid>3024</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>E2FA5E28-6915-CA70-6419-1B335EFD9E81</transaction_id>
+		<timestamp>07/08/2020 09:12:22</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3017</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>BF57D211-0EF2-6276-F582-E3EEBADA8D10</transaction_id>
+		<timestamp>01/08/2020 02:56:59</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer>gft</offer>
+		<discount></discount>
+		<userid>3012</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>1F545526-C3DA-73B5-55A4-46E74ED92C69</transaction_id>
+		<timestamp>01/08/2020 04:08:11</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3036</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>933115CD-A7BF-B434-7F4F-B5507C9FB6CD</transaction_id>
+		<timestamp>15/08/2020 04:11:34</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3057</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>8DD0F0DA-752E-38F0-F7CD-6D7F8268AC00</transaction_id>
+		<timestamp>14/08/2020 06:06:44</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>15%</discount>
+		<userid>3054</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>9D35D73F-B6BA-CCC8-2D06-7DD43EEC9CFE</transaction_id>
+		<timestamp>01/08/2020 09:15:16</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3072</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>28A870FB-7407-B894-8238-69CFB2B5696F</transaction_id>
+		<timestamp>26/08/2020 07:25:14</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>20%</discount>
+		<userid>3010</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>57AF2BDD-C9C6-6BAB-2630-14B71CA61671</transaction_id>
+		<timestamp>19/08/2020 08:45:46</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3060</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>9ACAEC5B-2846-D874-CEBE-CB8C868791A0</transaction_id>
+		<timestamp>10/08/2020 06:21:53</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3018</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>2E31F0AD-2950-5075-5BC0-E163FF2D2822</transaction_id>
+		<timestamp>29/08/2020 03:50:25</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3038</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>F748BDB6-8057-5C66-0BE4-F0563907E111</transaction_id>
+		<timestamp>29/08/2020 06:46:45</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer>h&amp;l</offer>
+		<discount></discount>
+		<userid>3090</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>312712DC-ADD3-AE7F-45DE-746A9A4F3752</transaction_id>
+		<timestamp>01/08/2020 01:49:15</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3071</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>EB7B5905-45EB-7E62-751C-70E596A513CE</transaction_id>
+		<timestamp>12/08/2020 10:19:48</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer>ga</offer>
+		<discount></discount>
+		<userid>3037</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>296EDB0F-965D-72D6-E56D-9FFA131A55DD</transaction_id>
+		<timestamp>24/08/2020 04:41:08</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer>sg</offer>
+		<discount>30%</discount>
+		<userid>3012</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>AACEC469-FACF-FE05-E64D-68AB1192E697</transaction_id>
+		<timestamp>31/08/2020 02:04:38</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer>gft</offer>
+		<discount></discount>
+		<userid>3037</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>7D30065D-6318-4809-5260-A6C90AB574DD</transaction_id>
+		<timestamp>10/08/2020 04:26:03</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3096</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>7D53F3C8-F56C-D69D-C261-C50CB7A8D513</transaction_id>
+		<timestamp>13/08/2020 10:56:50</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3067</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>AE0560B8-9B30-41C1-B550-92EEC085BA37</transaction_id>
+		<timestamp>17/08/2020 10:22:46</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3100</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>697A4A0D-CEB1-4D07-44C1-1157F5822147</transaction_id>
+		<timestamp>27/08/2020 04:05:06</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>20%</discount>
+		<userid>3087</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>FF3FF8E3-90AE-B2BC-AA73-3FAB8410CFEA</transaction_id>
+		<timestamp>20/08/2020 08:52:11</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>20%</discount>
+		<userid>3046</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>09C5B1F3-A7CC-B4BF-85B1-BA0309ABAA30</transaction_id>
+		<timestamp>20/08/2020 06:33:42</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3072</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>243386D9-BC9E-830D-6D62-3BF9D47E8D35</transaction_id>
+		<timestamp>31/08/2020 12:34:29</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3032</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>F7B57F65-095B-6354-EFF2-8E3B71563446</transaction_id>
+		<timestamp>13/08/2020 05:42:35</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3094</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>5C662BFB-5042-3FD2-D7FF-1AAF58C9AFA9</transaction_id>
+		<timestamp>05/08/2020 08:51:01</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>30%</discount>
+		<userid>3061</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>F110C57D-7D13-0A44-BF70-D05E92FCC2DB</transaction_id>
+		<timestamp>10/08/2020 01:25:12</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>20%</discount>
+		<userid>3006</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>473A60A3-4D02-B57E-0CA5-5C0FE4A83BC4</transaction_id>
+		<timestamp>26/08/2020 05:09:39</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3092</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>90848F35-4959-6220-61F5-E901EBE57858</transaction_id>
+		<timestamp>16/08/2020 02:40:06</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>25%</discount>
+		<userid>3001</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>B72F3DEB-4D35-2FCE-12C5-A5F25CE9E8AF</transaction_id>
+		<timestamp>03/08/2020 07:02:07</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3036</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>625AED7F-55FB-AFFD-0B8F-C4BE2F3DCB94</transaction_id>
+		<timestamp>22/08/2020 03:09:07</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer>ga</offer>
+		<discount></discount>
+		<userid>3007</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>4FFBED4F-5B80-16AB-E257-5CA9D8AEC547</transaction_id>
+		<timestamp>26/08/2020 05:41:23</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3034</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>1E67571D-CB7E-9F4C-DC4D-E728A652FF02</transaction_id>
+		<timestamp>12/08/2020 12:33:55</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount>15%</discount>
+		<userid>3082</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>39A05CDE-4231-3941-4309-BB8A0895A755</transaction_id>
+		<timestamp>28/08/2020 03:23:12</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3002</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>CA7907EA-9A23-C298-0106-173F91B8A9A9</transaction_id>
+		<timestamp>09/08/2020 04:54:07</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3097</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>4A4CF915-3FB7-457F-E9F8-8C37739AC8BA</transaction_id>
+		<timestamp>11/08/2020 02:33:29</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>15%</discount>
+		<userid>3036</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>1EB20001-61EA-B60E-0216-1CD5BABBDC53</transaction_id>
+		<timestamp>02/08/2020 09:22:41</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount>25%</discount>
+		<userid>3063</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>4495B016-9B9F-E611-1AB8-FB17DEDF3852</transaction_id>
+		<timestamp>06/08/2020 12:24:50</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer>ga</offer>
+		<discount></discount>
+		<userid>3046</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>5E020639-A3F3-BF31-4458-85693BD2EEFE</transaction_id>
+		<timestamp>07/08/2020 01:12:23</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer>ga</offer>
+		<discount></discount>
+		<userid>3061</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>92508472-3978-497F-E143-A163A1E63D46</transaction_id>
+		<timestamp>28/08/2020 05:17:40</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>20%</discount>
+		<userid>3052</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>981AB9CA-4B7C-9B1F-68D1-55D328AC8CDD</transaction_id>
+		<timestamp>31/08/2020 11:39:05</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount>30%</discount>
+		<userid>3074</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>774DA1E0-F24B-526A-9C07-7D5266561CCC</transaction_id>
+		<timestamp>23/08/2020 01:33:12</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3004</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>7FCE21F0-00DF-50EB-A92A-7D0E04C19E24</transaction_id>
+		<timestamp>06/08/2020 11:10:08</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer>ga</offer>
+		<discount>20%</discount>
+		<userid>3055</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>4F1F5854-1701-7906-3C95-B4F95DCC529B</transaction_id>
+		<timestamp>31/08/2020 06:31:21</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3021</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>091292A1-9163-BD88-1119-69AD07591643</transaction_id>
+		<timestamp>29/08/2020 12:48:42</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer>h&amp;l</offer>
+		<discount></discount>
+		<userid>3064</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>82D40B7F-889C-53E5-DB0F-C1C9E9ABD945</transaction_id>
+		<timestamp>08/08/2020 07:36:56</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount>20%</discount>
+		<userid>3100</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>4784C8F4-0189-EBCB-E4C3-E5CA1D8745CF</transaction_id>
+		<timestamp>30/08/2020 08:14:48</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3098</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>B8870C83-70F7-0613-17BE-2839FC8B5AB3</transaction_id>
+		<timestamp>02/08/2020 03:29:08</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3057</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>641355C3-4EDF-C209-76B1-E313856C8D19</transaction_id>
+		<timestamp>16/08/2020 05:11:38</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3079</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>FB952D50-CFCB-9FED-B6A7-1851E3EFF548</transaction_id>
+		<timestamp>15/08/2020 02:30:49</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3021</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>A9E16D7F-B337-ACF4-9E7D-4B9224F63364</transaction_id>
+		<timestamp>09/08/2020 09:23:22</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3019</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>E879B402-8703-0E5D-9132-E47522BEAF21</transaction_id>
+		<timestamp>30/08/2020 12:49:15</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3024</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>B5711471-CDCE-99C0-E0AE-B0253484C412</transaction_id>
+		<timestamp>14/08/2020 01:51:28</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>20%</discount>
+		<userid>3067</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>91C4B1A7-E588-DD66-D7CE-463977CE59A8</transaction_id>
+		<timestamp>14/08/2020 10:14:41</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3027</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>88B965C3-DCD3-ED08-263F-D6572CF9981D</transaction_id>
+		<timestamp>13/08/2020 07:33:15</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3030</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>401BE6AA-940E-6FF3-8F0D-4A87117D8E71</transaction_id>
+		<timestamp>30/08/2020 12:53:11</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3002</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>E20E7449-5D3B-193E-AE3B-DFFEBD611297</transaction_id>
+		<timestamp>07/08/2020 03:29:56</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>30%</discount>
+		<userid>3073</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>C2DB542A-A673-4907-2D62-8A50F6966E32</transaction_id>
+		<timestamp>28/08/2020 12:47:24</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3097</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>2618398D-46B1-A79C-D9ED-4E2C5D00A8D0</transaction_id>
+		<timestamp>16/08/2020 06:01:50</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer>gft</offer>
+		<discount>20%</discount>
+		<userid>3088</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>786B2918-8717-F67C-135E-F069428FAC1E</transaction_id>
+		<timestamp>12/08/2020 08:43:52</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3079</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>3C4D9EED-0584-8489-FF8C-6CEF7846D473</transaction_id>
+		<timestamp>06/08/2020 05:46:25</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>30%</discount>
+		<userid>3030</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>0C906491-C5B1-EC3D-D4B8-B65563BAB0D7</transaction_id>
+		<timestamp>24/08/2020 02:22:02</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer>sg</offer>
+		<discount>30%</discount>
+		<userid>3052</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>A98F03DD-6204-920C-6963-50DD69E17EDF</transaction_id>
+		<timestamp>31/08/2020 02:47:25</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3072</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>E5A18371-FA31-18C7-D6B4-27CFE12DD23F</transaction_id>
+		<timestamp>23/08/2020 07:52:20</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3016</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>55F2685D-9697-16DA-4380-F7890E062F58</transaction_id>
+		<timestamp>15/08/2020 08:26:05</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3023</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>307CA489-FF3B-C66C-5E6B-8385A5BC23BB</transaction_id>
+		<timestamp>07/08/2020 01:33:46</timestamp>
+		<coffee_type>blend</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer>gft</offer>
+		<discount>25%</discount>
+		<userid>3092</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>D2AD5991-054B-1C7B-2924-11278266A6AA</transaction_id>
+		<timestamp>27/08/2020 04:35:26</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3079</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>DCA461F5-03D2-3D7F-F287-4639FB90A56F</transaction_id>
+		<timestamp>14/08/2020 03:10:14</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3071</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>528EAF66-D3AE-42AE-64E7-6F2AC8452B47</transaction_id>
+		<timestamp>10/08/2020 01:17:07</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount>15%</discount>
+		<userid>3090</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>0B500F35-7465-DB70-5176-2501643B2643</transaction_id>
+		<timestamp>23/08/2020 11:02:15</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3026</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>170A9FD5-88FF-6DEC-A49F-3EF1C3748AC2</transaction_id>
+		<timestamp>13/08/2020 04:07:12</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>M</coffee_size>
+		<price>€1.30</price>
+		<offer>h&amp;l</offer>
+		<discount></discount>
+		<userid>3058</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>068CCAD9-1B59-06AF-627D-D1812AE4B522</transaction_id>
+		<timestamp>05/08/2020 01:47:37</timestamp>
+		<coffee_type>espresso</coffee_type>
+		<coffee_size>G</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3017</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>DD7B462D-C21D-A591-7E5B-2D7EC8E06097</transaction_id>
+		<timestamp>31/08/2020 01:00:52</timestamp>
+		<coffee_type>colombian</coffee_type>
+		<coffee_size>GG</coffee_size>
+		<price>€3</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3060</userid>
+	</transaction>
+	<transaction>
+		<transaction_id>66EF0AAB-6F0B-5411-B77D-856FE4952B91</transaction_id>
+		<timestamp>13/08/2020 05:57:05</timestamp>
+		<coffee_type>brazilian</coffee_type>
+		<coffee_size>P</coffee_size>
+		<price>€1.30</price>
+		<offer></offer>
+		<discount></discount>
+		<userid>3045</userid>
+	</transaction>
+</transactions>

@@ -1,0 +1,1002 @@
+[
+	{
+		"tran_id": "A0E69BC8-25B0-1EA8-2B7F-5D0C7BF07738",
+		"timestamp": "2020年08月04日 12時13分29秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1023
+	},
+	{
+		"tran_id": "A5E093BB-1042-C76F-DE29-751667A06B7B",
+		"timestamp": "2020年08月07日 02時10分58秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "30%",
+		"userid": 1021
+	},
+	{
+		"tran_id": "972489C6-4D5C-3B22-E90D-328B8231A679",
+		"timestamp": "2020年08月09日 09時04分17秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1021
+	},
+	{
+		"tran_id": "9FEC7991-9F56-8338-8F7E-C7B0DD56C70D",
+		"timestamp": "2020年08月24日 09時50分23秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "sg",
+		"discount": "",
+		"userid": 1035
+	},
+	{
+		"tran_id": "F9F0A201-1EBE-4ACC-D324-2BA341DB2244",
+		"timestamp": "2020年08月08日 11時33分04秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "ga",
+		"discount": "20%",
+		"userid": 1058
+	},
+	{
+		"tran_id": "CC2435EE-D56B-8FE1-0AB9-0C2FFCDF33A8",
+		"timestamp": "2020年08月11日 06時42分11秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "",
+		"userid": 1027
+	},
+	{
+		"tran_id": "979867CE-12EC-1BF9-0845-ED3F6D2B246D",
+		"timestamp": "2020年08月17日 10時14分01秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "",
+		"userid": 1090
+	},
+	{
+		"tran_id": "7E0BFF04-600A-1D31-CF2A-5D1D4583E1F0",
+		"timestamp": "2020年08月26日 05時18分26秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "25%",
+		"userid": 1045
+	},
+	{
+		"tran_id": "E12A212F-252C-44EE-B095-D09916AC21C7",
+		"timestamp": "2020年08月16日 10時05分12秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "",
+		"userid": 1013
+	},
+	{
+		"tran_id": "07D0B8E8-7491-EBD3-FE96-30B6583B8EEA",
+		"timestamp": "2020年08月25日 07時28分38秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "gft",
+		"discount": "25%",
+		"userid": 1095
+	},
+	{
+		"tran_id": "0C8AD335-C6C5-2164-1A55-78FF9AFA05DD",
+		"timestamp": "2020年08月15日 09時37分05秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1082
+	},
+	{
+		"tran_id": "0DCDCE48-F8DC-3BB4-0E02-6E19A7FDCBFC",
+		"timestamp": "2020年08月25日 06時05分43秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "ga",
+		"discount": "25%",
+		"userid": 1088
+	},
+	{
+		"tran_id": "3092D2E9-A62F-BCBD-2A07-E150B6F28703",
+		"timestamp": "2020年08月29日 08時36分25秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "",
+		"userid": 1065
+	},
+	{
+		"tran_id": "0A8B9FB0-7967-0860-27B2-427C05EB0D9D",
+		"timestamp": "2020年08月01日 05時34分31秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1020
+	},
+	{
+		"tran_id": "93D41DAB-2F6C-8DC0-4764-CFFAAD4A27F7",
+		"timestamp": "2020年08月09日 07時22分54秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "gft",
+		"discount": "30%",
+		"userid": 1032
+	},
+	{
+		"tran_id": "90176763-7ED3-F52C-1348-854BE9F738BB",
+		"timestamp": "2020年08月04日 02時23分12秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "h&l",
+		"discount": "",
+		"userid": 1055
+	},
+	{
+		"tran_id": "4DADDA82-7AA9-C0DB-5FEB-7051450BDA29",
+		"timestamp": "2020年08月15日 12時26分10秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1056
+	},
+	{
+		"tran_id": "B9EBA1D3-8CED-BC9F-E448-50393EFFFC4F",
+		"timestamp": "2020年08月07日 04時46分03秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1036
+	},
+	{
+		"tran_id": "DF5A14EB-3196-104A-31F7-8D65C49404E9",
+		"timestamp": "2020年08月26日 09時07分57秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "gft",
+		"discount": "30%",
+		"userid": 1059
+	},
+	{
+		"tran_id": "412C11F7-6A38-DFA8-4A82-C9D4667C6431",
+		"timestamp": "2020年08月04日 10時15分34秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "25%",
+		"userid": 1005
+	},
+	{
+		"tran_id": "BE4DA21C-A291-9FC9-3657-9E7E014DB6B6",
+		"timestamp": "2020年08月02日 12時49分20秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "h&l",
+		"discount": "20%",
+		"userid": 1095
+	},
+	{
+		"tran_id": "DD726832-683F-C870-4443-1DFBAF596DA2",
+		"timestamp": "2020年08月20日 09時15分02秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "25%",
+		"userid": 1072
+	},
+	{
+		"tran_id": "D8C6D5DC-240C-2E78-C078-70E674CBFAE2",
+		"timestamp": "2020年08月13日 09時42分51秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1073
+	},
+	{
+		"tran_id": "B245A491-C471-A559-D119-9CE5B56C34B1",
+		"timestamp": "2020年08月21日 10時11分45秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "ga",
+		"discount": "",
+		"userid": 1053
+	},
+	{
+		"tran_id": "A476ECE2-F68A-836B-747A-F6E3928FAEDC",
+		"timestamp": "2020年08月21日 07時02分21秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "",
+		"userid": 1023
+	},
+	{
+		"tran_id": "FA4BC33F-36D5-EB3B-BCFF-0A348A78C63F",
+		"timestamp": "2020年08月20日 11時00分33秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1085
+	},
+	{
+		"tran_id": "FBBB0C25-0147-ABB5-6FF7-905B3B0041BF",
+		"timestamp": "2020年08月01日 05時39分54秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "",
+		"userid": 1020
+	},
+	{
+		"tran_id": "A89E88FB-024F-6751-79AD-038032558266",
+		"timestamp": "2020年08月12日 12時09分57秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "30%",
+		"userid": 1075
+	},
+	{
+		"tran_id": "AF72D12E-CD5F-2BDF-B3F5-FD44EC812C26",
+		"timestamp": "2020年08月27日 01時12分20秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1092
+	},
+	{
+		"tran_id": "28478385-0FA9-143C-0729-52F684DF20EC",
+		"timestamp": "2020年08月14日 03時48分36秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "",
+		"userid": 1079
+	},
+	{
+		"tran_id": "5AADBB18-8305-D149-A2CC-CBB376CEF332",
+		"timestamp": "2020年08月28日 06時04分10秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "h&l",
+		"discount": "",
+		"userid": 1003
+	},
+	{
+		"tran_id": "6FE9B98E-A079-C98E-7E19-BD1DF82F62B1",
+		"timestamp": "2020年08月21日 06時22分34秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1012
+	},
+	{
+		"tran_id": "3FA13D01-B6E3-3D30-64E7-3272396623D7",
+		"timestamp": "2020年08月16日 06時22分21秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1029
+	},
+	{
+		"tran_id": "E87DAEC7-70D7-007D-5045-63B957DD445F",
+		"timestamp": "2020年08月10日 12時39分30秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1082
+	},
+	{
+		"tran_id": "4AD75C8A-DE1D-AF5E-3E6D-5F398A7BBD68",
+		"timestamp": "2020年08月23日 11時13分36秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1013
+	},
+	{
+		"tran_id": "F935F80E-CCD5-0600-539B-D05EE4E619F0",
+		"timestamp": "2020年08月07日 03時58分43秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "sg",
+		"discount": "",
+		"userid": 1090
+	},
+	{
+		"tran_id": "7B2146A9-AFFB-752B-573D-C16033526D6E",
+		"timestamp": "2020年08月17日 03時30分16秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "30%",
+		"userid": 1076
+	},
+	{
+		"tran_id": "D8085C16-4876-9865-97A0-D1BE1D609AF5",
+		"timestamp": "2020年08月05日 07時21分36秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "",
+		"userid": 1028
+	},
+	{
+		"tran_id": "3B626D7C-01D6-4153-BA4B-CFF7C9DDCD7A",
+		"timestamp": "2020年08月25日 12時04分29秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "",
+		"userid": 1025
+	},
+	{
+		"tran_id": "997613D3-04CF-DA42-26E2-7346F4F4B088",
+		"timestamp": "2020年08月26日 08時51分10秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1063
+	},
+	{
+		"tran_id": "7E58D92B-7D54-D836-A52F-039FA42DFD32",
+		"timestamp": "2020年08月01日 03時06分10秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1018
+	},
+	{
+		"tran_id": "41BEE45D-95CE-5530-3F16-C85C759AC380",
+		"timestamp": "2020年08月28日 03時37分40秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "gft",
+		"discount": "",
+		"userid": 1020
+	},
+	{
+		"tran_id": "D8AA5F26-6C16-0CD7-A12E-AEDC8E211465",
+		"timestamp": "2020年08月23日 07時41分01秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "",
+		"userid": 1082
+	},
+	{
+		"tran_id": "16A9837A-9F16-01D0-2879-63B1A0D194BA",
+		"timestamp": "2020年08月18日 12時00分43秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "sg",
+		"discount": "",
+		"userid": 1003
+	},
+	{
+		"tran_id": "E7900859-9E84-115B-2271-1ABB61BFF5FD",
+		"timestamp": "2020年08月11日 12時12分20秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "30%",
+		"userid": 1024
+	},
+	{
+		"tran_id": "D5F3C44D-6F66-6C6F-4E7F-340F2AB8E84E",
+		"timestamp": "2020年08月10日 08時51分46秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "gft",
+		"discount": "25%",
+		"userid": 1079
+	},
+	{
+		"tran_id": "A9302752-650D-2765-57F8-624C59A61035",
+		"timestamp": "2020年08月22日 11時15分20秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "sg",
+		"discount": "25%",
+		"userid": 1021
+	},
+	{
+		"tran_id": "123A74A5-446C-C4F7-DAE9-A39C771BF3D0",
+		"timestamp": "2020年08月30日 12時28分49秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "ga",
+		"discount": "",
+		"userid": 1077
+	},
+	{
+		"tran_id": "04C8C7E1-A641-EB0B-8B89-DD8DDE8D7BAB",
+		"timestamp": "2020年08月19日 04時29分22秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "20%",
+		"userid": 1022
+	},
+	{
+		"tran_id": "375A0AB5-B228-3666-73EF-4DD3319DEFF5",
+		"timestamp": "2020年08月11日 03時22分13秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "",
+		"userid": 1086
+	},
+	{
+		"tran_id": "F0FBD24E-1E1E-68D7-2BC2-D6A247EAED44",
+		"timestamp": "2020年08月02日 04時58分38秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "15%",
+		"userid": 1070
+	},
+	{
+		"tran_id": "AC69B2AF-D6D5-8AA4-9F40-8FFC67784BFF",
+		"timestamp": "2020年08月29日 06時36分10秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "gft",
+		"discount": "",
+		"userid": 1039
+	},
+	{
+		"tran_id": "E893DCE2-6214-E369-F6E3-F83E16FBC4E5",
+		"timestamp": "2020年08月11日 03時26分37秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "h&l",
+		"discount": "",
+		"userid": 1095
+	},
+	{
+		"tran_id": "0AAE5BA2-673C-C98C-BAE1-EA122FE7A6DE",
+		"timestamp": "2020年08月09日 12時49分23秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "h&l",
+		"discount": "",
+		"userid": 1069
+	},
+	{
+		"tran_id": "9F3BCB95-4567-9AE6-6802-588A070D5A0E",
+		"timestamp": "2020年08月23日 07時33分20秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "gft",
+		"discount": "",
+		"userid": 1087
+	},
+	{
+		"tran_id": "57E99C8C-FDAF-C726-1768-1CE50A3205C9",
+		"timestamp": "2020年08月29日 03時32分01秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "",
+		"userid": 1078
+	},
+	{
+		"tran_id": "9003892B-E70E-7D11-AE78-67725F0ACB09",
+		"timestamp": "2020年08月30日 09時26分38秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1054
+	},
+	{
+		"tran_id": "9326252A-2E53-6C2C-6634-106AB63AAA8E",
+		"timestamp": "2020年08月25日 06時02分15秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1011
+	},
+	{
+		"tran_id": "E8BF1A8C-53A1-69D6-7AF5-49B4B2184382",
+		"timestamp": "2020年08月30日 09時13分56秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1053
+	},
+	{
+		"tran_id": "47F68608-61A1-3742-2371-D0E48A3C82FD",
+		"timestamp": "2020年08月02日 10時14分02秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "h&l",
+		"discount": "",
+		"userid": 1082
+	},
+	{
+		"tran_id": "86DC2D89-2A00-5F5D-32DA-528259FF664A",
+		"timestamp": "2020年08月12日 03時11分27秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "25%",
+		"userid": 1000
+	},
+	{
+		"tran_id": "BAEF7AEC-B90B-75C0-1D48-73234AAA9C3C",
+		"timestamp": "2020年08月19日 04時50分11秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1044
+	},
+	{
+		"tran_id": "142ED577-DDD7-DBFC-3632-4E65D5834448",
+		"timestamp": "2020年08月01日 04時30分36秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "20%",
+		"userid": 1063
+	},
+	{
+		"tran_id": "C0697CC7-9177-784A-7714-448B57C2C6A2",
+		"timestamp": "2020年08月12日 06時13分03秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "h&l",
+		"discount": "",
+		"userid": 1013
+	},
+	{
+		"tran_id": "5227F0DE-8436-7EC6-1935-6C8EBF918595",
+		"timestamp": "2020年08月08日 11時44分41秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "25%",
+		"userid": 1004
+	},
+	{
+		"tran_id": "2CA31475-1903-9B18-744A-B15B19AF74B6",
+		"timestamp": "2020年08月04日 02時30分42秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "15%",
+		"userid": 1081
+	},
+	{
+		"tran_id": "38AAC9E4-6B5E-833B-E5C6-5B9544E18C2F",
+		"timestamp": "2020年08月24日 09時41分53秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1051
+	},
+	{
+		"tran_id": "B27129A7-63F2-0C28-A983-F4C2E3192BAD",
+		"timestamp": "2020年08月23日 07時53分53秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "ga",
+		"discount": "",
+		"userid": 1090
+	},
+	{
+		"tran_id": "00B27744-4B13-00D6-98A3-6D3E17160215",
+		"timestamp": "2020年08月29日 08時51分35秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "15%",
+		"userid": 1059
+	},
+	{
+		"tran_id": "5A52A520-3AE2-D0BC-D0FA-2AA45337EDCA",
+		"timestamp": "2020年08月23日 06時44分27秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1099
+	},
+	{
+		"tran_id": "B53EE849-CD4F-2666-352D-466F2142088A",
+		"timestamp": "2020年08月29日 12時56分54秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "",
+		"userid": 1066
+	},
+	{
+		"tran_id": "284FCE45-4254-6FAF-C9FF-647595722A1E",
+		"timestamp": "2020年08月03日 02時50分34秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1076
+	},
+	{
+		"tran_id": "B0780AE8-C637-6D48-3D50-8E0C63EFCF2C",
+		"timestamp": "2020年08月16日 09時19分01秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "sg",
+		"discount": "30%",
+		"userid": 1057
+	},
+	{
+		"tran_id": "D18D00E6-8049-7C5C-F7C3-A190F21BF996",
+		"timestamp": "2020年08月07日 07時07分41秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "25%",
+		"userid": 1046
+	},
+	{
+		"tran_id": "AA362DB3-9083-AD32-33D4-D9D178EFFCFE",
+		"timestamp": "2020年08月26日 01時45分33秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "25%",
+		"userid": 1099
+	},
+	{
+		"tran_id": "5D21C960-7C24-7977-D536-015F1833E5F6",
+		"timestamp": "2020年08月04日 05時58分05秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "gft",
+		"discount": "",
+		"userid": 1023
+	},
+	{
+		"tran_id": "B3B10EEF-C454-40CA-ADE2-BCFEC946D8E8",
+		"timestamp": "2020年08月08日 05時34分28秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1059
+	},
+	{
+		"tran_id": "E9E82019-13FB-81FB-8DA9-59431E947EBD",
+		"timestamp": "2020年08月23日 03時55分13秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "h&l",
+		"discount": "25%",
+		"userid": 1095
+	},
+	{
+		"tran_id": "658A503C-AD2B-B3C7-5DA3-7834FF3D9E68",
+		"timestamp": "2020年08月17日 06時34分43秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "h&l",
+		"discount": "",
+		"userid": 1021
+	},
+	{
+		"tran_id": "657FE5EF-5EAD-FF2D-D3BE-51945C26A89B",
+		"timestamp": "2020年08月25日 03時03分48秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1000
+	},
+	{
+		"tran_id": "263A4EC4-AAE5-D560-CFDC-5F4FFA6A68C8",
+		"timestamp": "2020年08月23日 09時43分58秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1081
+	},
+	{
+		"tran_id": "04D3FE67-7885-D909-3E5E-028AAD1EAF65",
+		"timestamp": "2020年08月01日 10時54分06秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "h&l",
+		"discount": "25%",
+		"userid": 1003
+	},
+	{
+		"tran_id": "38426FEB-57B3-D885-FCCF-C1989E339F13",
+		"timestamp": "2020年08月07日 12時39分27秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "",
+		"userid": 1027
+	},
+	{
+		"tran_id": "FC947CF8-E305-F463-50A4-031BE4A78DAF",
+		"timestamp": "2020年08月18日 01時49分55秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "25%",
+		"userid": 1027
+	},
+	{
+		"tran_id": "ED8FA915-CFD0-75A1-632A-1FA3308871CA",
+		"timestamp": "2020年08月07日 10時13分32秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "15%",
+		"userid": 1096
+	},
+	{
+		"tran_id": "CA46E313-D28C-8978-70D8-B0395797396B",
+		"timestamp": "2020年08月30日 01時49分12秒",
+		"coffee_type": "ブレンド",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "sg",
+		"discount": "",
+		"userid": 1020
+	},
+	{
+		"tran_id": "A886BBBF-A553-6B47-61DC-3E462449A5BE",
+		"timestamp": "2020年08月03日 02時20分24秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "h&l",
+		"discount": "",
+		"userid": 1004
+	},
+	{
+		"tran_id": "C9091C39-DF74-4385-D12C-7055858A2E81",
+		"timestamp": "2020年08月25日 01時42分44秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "gft",
+		"discount": "",
+		"userid": 1086
+	},
+	{
+		"tran_id": "0B441F56-057E-00F9-9E34-78E3C9FF6FA8",
+		"timestamp": "2020年08月20日 01時46分34秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1027
+	},
+	{
+		"tran_id": "46C7FBC0-375D-D74D-962B-08CDBF0FC872",
+		"timestamp": "2020年08月07日 04時48分23秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "",
+		"userid": 1069
+	},
+	{
+		"tran_id": "2BFDF7C3-467E-E7C1-B977-33C82F1EFFE5",
+		"timestamp": "2020年08月15日 07時18分15秒",
+		"coffee_type": "コロンビア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "gft",
+		"discount": "25%",
+		"userid": 1037
+	},
+	{
+		"tran_id": "F2816BB0-C1E5-88ED-157F-816F81158B01",
+		"timestamp": "2020年08月20日 11時55分21秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "30%",
+		"userid": 1092
+	},
+	{
+		"tran_id": "180EA4B1-2289-4D97-140D-6C589B5C4927",
+		"timestamp": "2020年08月27日 04時19分57秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1080
+	},
+	{
+		"tran_id": "F27797A2-CE96-150E-11A4-A85BC4EF93F3",
+		"timestamp": "2020年08月31日 02時14分11秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1084
+	},
+	{
+		"tran_id": "43FC607A-299A-4BEA-C21A-2051C7FD07FD",
+		"timestamp": "2020年08月21日 05時06分03秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "ga",
+		"discount": "15%",
+		"userid": 1073
+	},
+	{
+		"tran_id": "738B9557-B7EA-B71E-72B8-A323AD26BDC0",
+		"timestamp": "2020年08月18日 05時53分13秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "",
+		"userid": 1072
+	},
+	{
+		"tran_id": "7952CEDD-BB49-314A-B91E-55B5E9F6C406",
+		"timestamp": "2020年08月22日 05時49分59秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "超大",
+		"price": "¥1000",
+		"offer": "",
+		"discount": "",
+		"userid": 1080
+	},
+	{
+		"tran_id": "C68DA532-894E-2436-C9AF-51CEAE951197",
+		"timestamp": "2020年08月09日 05時54分01秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "小",
+		"price": "¥500",
+		"offer": "",
+		"discount": "",
+		"userid": 1051
+	},
+	{
+		"tran_id": "A54B3F03-3B6A-68A3-9B57-AF8E50EA5BFF",
+		"timestamp": "2020年08月22日 03時53分46秒",
+		"coffee_type": "ブラジル",
+		"coffee_size": "中",
+		"price": "¥600",
+		"offer": "",
+		"discount": "",
+		"userid": 1045
+	},
+	{
+		"tran_id": "BEF23102-B38A-65BF-F01D-4485DD290D67",
+		"timestamp": "2020年08月29日 09時42分47秒",
+		"coffee_type": "イタリア",
+		"coffee_size": "大",
+		"price": "¥800",
+		"offer": "",
+		"discount": "",
+		"userid": 1006
+	}
+]
