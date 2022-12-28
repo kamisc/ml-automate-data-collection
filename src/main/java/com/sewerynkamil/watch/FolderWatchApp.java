@@ -2,6 +2,7 @@ package com.sewerynkamil.watch;
 
 import com.sewerynkamil.watch.task.CsvIngesterTask;
 import com.sewerynkamil.watch.task.IngesterTask;
+import com.sewerynkamil.watch.task.JsonIngesterTask;
 import com.sewerynkamil.watch.task.XmlIngesterTask;
 
 import java.io.IOException;
@@ -32,6 +33,7 @@ public class FolderWatchApp {
                                 IngesterTask task = switch (type) {
                                     case "application/vnd.ms-excel", "text/csv" -> new CsvIngesterTask(filePath.toAbsolutePath().toString(), targetPath.toAbsolutePath().toString());
                                     case "text/xml", "application/xml" -> new XmlIngesterTask(filePath.toAbsolutePath().toString(), targetPath.toAbsolutePath().toString());
+                                    case "text/json", "application/json" -> new JsonIngesterTask(filePath.toAbsolutePath().toString(), targetPath.toAbsolutePath().toString());
                                     default -> null;
                                 };
                                 if (task != null) executor.submit(task);
