@@ -1,6 +1,8 @@
 package com.sewerynkamil.watch;
 
 import com.sewerynkamil.watch.task.CsvIngesterTask;
+import com.sewerynkamil.watch.task.IngesterTask;
+import com.sewerynkamil.watch.task.XmlIngesterTask;
 
 import java.io.IOException;
 import java.nio.file.*;
@@ -29,6 +31,7 @@ public class FolderWatchApp {
                             if (type != null) {
                                 IngesterTask task = switch (type) {
                                     case "application/vnd.ms-excel", "text/csv" -> new CsvIngesterTask(filePath.toAbsolutePath().toString(), targetPath.toAbsolutePath().toString());
+                                    case "text/xml", "application/xml" -> new XmlIngesterTask(filePath.toAbsolutePath().toString(), targetPath.toAbsolutePath().toString());
                                     default -> null;
                                 };
                                 if (task != null) executor.submit(task);

@@ -1,4 +1,4 @@
-package com.sewerynkamil.watch;
+package com.sewerynkamil.watch.task;
 
 import com.sewerynkamil.model.SaleTransaction;
 

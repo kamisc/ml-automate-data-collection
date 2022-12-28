@@ -60,9 +60,17 @@ public class SaleTransaction {
         return country;
     }
 
+    public void setCountry(Country country) {
+        this.country = country;
+    }
+
     @JsonIgnore
     public String getCity() {
         return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
     }
 
     public static final class SaleTransactionBuilder {

@@ -1,7 +1,6 @@
 package com.sewerynkamil.watch.task;
 
 import com.sewerynkamil.model.SaleTransaction;
-import com.sewerynkamil.watch.IngesterTask;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 
