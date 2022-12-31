@@ -1,6 +1,6 @@
 package com.sewerynkamil.watch;
 
-import com.sewerynkamil.watch.task.*;
+import com.sewerynkamil.watch.tasks.*;
 
 import java.io.IOException;
 import java.nio.file.*;
